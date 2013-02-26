@@ -21,11 +21,10 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>restore-bookmark-shortcut-key@xulforge.com</em:id>
-    <em:name>Restaurador de acceso directo para crear marcadores</em:name>
-    <em:description>Restaura el acceso directo que se utiliza para abrir el panel para crear un nuevo marcador en la traducción es-ES del Firefox.</em:description>
+    <em:name>Restaurador de acceso directo para marcadores</em:name>
+    <em:description>Restaura el acceso directo que se utiliza para abrir el panel de creación y edición de marcadores en la traducción es-ES del Firefox.</em:description>
     <em:version>1.0</em:version>
     <em:creator>Jorge Villalobos</em:creator>
-    <em:bootstrap>true</em:bootstrap>
     <em:type>2</em:type>
     <em:strictCompatibility>true</em:strictCompatibility>
 

@@ -66,7 +66,8 @@ clean:
 # The sources for the XPI file. Uses variables defined in the included
 # Makefiles.
 xpi_built := install.rdf \
-             bootstrap.js
+             chrome.manifest \
+             overlay.xul
 
 $(xpi_file): $(xpi_built)
 	@echo "Creating XPI file."
