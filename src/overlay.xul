@@ -18,6 +18,6 @@
 
 <overlay id="restore-bookamrks-key-browser-overlay"
   xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
-  <key id="addBookmarkAsKb" key="b" command="Browser:AddBookmarkAs"
+  <key id="viewBookmarksSidebarKb" key="b" command="viewBookmarksSidebar"
         modifiers="accel "/>
 </overlay>

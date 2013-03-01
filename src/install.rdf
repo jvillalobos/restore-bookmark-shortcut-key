@@ -22,8 +22,8 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>restore-bookmark-shortcut-key@xulforge.com</em:id>
     <em:name>Restaurador de atajo de teclado para marcadores</em:name>
-    <em:description>Restaura el atajo de teclado que se utiliza para abrir el panel de creación y edición de marcadores en la traducción es-ES del Firefox. Deja de ser Ctrl+D y vuelve a ser Ctrl+B.</em:description>
-    <em:version>1.0</em:version>
+    <em:description>Restaura el atajo de teclado que se utiliza para abrir la barra lateral de marcadores en la traducción es-ES del Firefox. Deja de ser Ctrl+D y vuelve a ser Ctrl+B.</em:description>
+    <em:version>2.0</em:version>
     <em:creator>Jorge Villalobos</em:creator>
     <em:type>2</em:type>
     <em:strictCompatibility>true</em:strictCompatibility>
@@ -33,7 +33,7 @@
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
         <em:minVersion>19.0a1</em:minVersion>
-        <em:maxVersion>19.*</em:maxVersion>
+        <em:maxVersion>20.0</em:maxVersion>
       </Description>
     </em:targetApplication>
   </Description>
