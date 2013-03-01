@@ -19,5 +19,7 @@
 <overlay id="restore-bookamrks-key-browser-overlay"
   xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
   <key id="viewBookmarksSidebarKb" key="b" command="viewBookmarksSidebar"
-        modifiers="accel "/>
+        modifiers="accel"/>
+  <key id="manBookmarkKb" key="b" command="Browser:ShowAllBookmarks"
+        modifiers="accel,shift"/>
 </overlay>

@@ -23,7 +23,7 @@
     <em:id>restore-bookmark-shortcut-key@xulforge.com</em:id>
     <em:name>Restaurador de atajo de teclado para marcadores</em:name>
     <em:description>Restaura el atajo de teclado que se utiliza para abrir la barra lateral de marcadores en la traducción es-ES del Firefox. Deja de ser Ctrl+D y vuelve a ser Ctrl+B.</em:description>
-    <em:version>2.0</em:version>
+    <em:version>2.1</em:version>
     <em:creator>Jorge Villalobos</em:creator>
     <em:type>2</em:type>
     <em:strictCompatibility>true</em:strictCompatibility>
